@@ -1,5 +1,4 @@
-Xian Chen (25781347)
-Homework #6
+Xian Chen
 
 
 Implementation of Weighted CYK/Probabilistic Context Free Grammar:
